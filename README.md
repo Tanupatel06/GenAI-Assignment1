@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Name:** Tanu Patel
-- **Course:** B.Tech Computer Science Engineering (CSE)
+- **Course:** BE Computer Science Engineering (CSE)
 - **Assignment:** GenAI Assignment 1
 - **Language:** Python
 
@@ -92,4 +92,4 @@ python Task4.py
 
 **Tanu Patel**
 
-B.Tech Computer Science Engineering (CSE)
+BE Computer Science Engineering (CSE)
